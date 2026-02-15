@@ -10,6 +10,4 @@
 
 # This will help us in figuring out factors that influence low house prices.
 
-- Machine Learning Lab 3
-= Fahad Abdulaziz Al Taher
 
